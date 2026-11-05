@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, 'SF Pro Text', Arial, sans-serif;
+  color: #000;
+  background: #fff;
+}
